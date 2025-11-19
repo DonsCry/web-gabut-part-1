@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-slate-950 text-slate-50 font-sans antialiased;
+}
+
+.gradient-bg {
+  background: radial-gradient(circle at top, rgba(56, 189, 248, 0.25), transparent 55%),
+    radial-gradient(circle at bottom, rgba(93, 105, 215, 0.3), transparent 55%);
+}
+
+.glass-panel {
+  @apply bg-slate-950/60 border border-slate-800/80 backdrop-blur-xl;
+}
+
+.page-transition {
+  animation: pageFadeIn 0.35s ease-out;
+}
+
+@keyframes pageFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.995);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}

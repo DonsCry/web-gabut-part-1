@@ -15,36 +15,21 @@ Welcome to my GitHub! I am a **freelancer developer** who loves building clean, 
 
 **Languages:**
 
-* JavaScript, Python, PHP, C#, HTML, CSS
+* JavaScript, Python, PHP, C#, HTML, CSS, Dart, kotlin, Java, C#, LuaScript
 
 **Frameworks & Tools:**
 
 * React / Next.js
 * Node.js / Express
 * Laravel (PHP)
-* Unity (C#)
 * Git & GitHub
+* flutter
+* RobloxStudio
 
 You can adjust this later sesuai skill kamu.
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Project 1 — *Nama Project*
-
-Deskripsi singkat project.
-
-* ✨ Fitur utama
-* 🛠️ Teknologi
-* 🔗 Demo: *link kalau ada*
-* 📁 Repo: *link repo*
-
-### 🔹 Project 2 — *Nama Project*
-
-Deskripsi singkat.
-
-### 🔹 Project 3 — *Nama Project*
 
 Deskripsi singkat.
 
@@ -58,8 +43,8 @@ Deskripsi singkat.
 
 ## 📬 Contact Me
 
-* Email: **[your@email.com](mailto:your@email.com)**
-* LinkedIn / Instagram / WhatsApp (opsional)
+* Email: **[revalsaputra350@gmail.com](revalsaputra350@gmail.com)**
+* LinkedIn / Instagram (nardznightt) / WhatsApp (081936514430)
 
 ---
 
